@@ -2,62 +2,60 @@
   {
     "matiere": "UE1",
     "chapitres": [
-      "Aspects quantitatifs",
-      "Réactions et équations chimiques",
-      "Solutions",
-      "Stéréochimie isomérie mésomérie",
-      "Molécules organiques",
-      "Espèces chimiques",
-      "Atome, élément et tableau périodique"
+      "Aspects quantitatifs S40",
+      "Aspects quantitatifs S39",
+      "Réactions et équations chimiques S39",
+      "Solutions S38",
+      "Stéréochimie isomérie mésomérie S38",
+      "Molécules organiques S38",
+      "Espèces chimiques S37",
+      "Molécules organiques S37",
+      "Espèces chimiques S36",
+      "Atome, élément et tableau périodique S36"
     ]
   },
   {
     "matiere": "UE2",
     "chapitres": [
-      "Métabolisme glucidique",
-      "Enzymes",
-      "Acides aminés Protéines",
-      "Protéines",
-      "Lipides",
-      "Glucides"
+      "Métabolisme glucidique S40",
+      "Enzymes S39",
+      "Métabolisme glucidique S38",
+      "Acides aminés Protéines S37",
+      "Enzymes S37",
+      "Protéines S37",
+      "Lipides S36",
+      "Glucides S36"
     ]
   },
   {
     "matiere": "UE3",
     "chapitres": [
       "Bayésien Régression Livret",
-      "Tests diagnostiques/Concordance",
-      "moyennes",
-      "proportions S39",
-      "Lois de proba",
-      "Principe THN S38",
-      "Estimation",
-      "Probabilités",
-      "Stats descriptives"
+      "Tests diagnostiques/Concordance S40",
+      "moyennes S40",
+      "proportions S39 S40",
+      "Lois de proba S37",
+      "Principe THN S38 S39",
+      "Estimation S38",
+      "Probabilités S36",
+      "Stats descriptives S36"
     ]
   },
   {
     "matiere": "SHS",
     "chapitres": [
-      "L1SPS 07 08 UET SHS CM Genre et santé",
-      "L1SPS 03 04 UET SHS CM L'invention de la bactériologie",
-      "L1SPS 05 06 UET SHS CM Histoire de la santé mentale",
-      "L1SPS 01 02 UET SHS Images et santé"
-    ]
-  },
-  {
-    "matiere": "MTU",
-    "chapitres": [
-      "L1SPS 02 UET MTU Méthode de travail 25 26",
-      "L1SPS 01 UET MTU Consignes 25 26"
+      "L1SPS 07 08 UET SHS CM Genre et santé S39",
+      "L1SPS 03 04 UET SHS CM L'invention de la bactériologie S38",
+      "L1SPS 05 06 UET SHS CM Histoire de la santé mentale S39",
+      "L1SPS 01 02 UET SHS Images et santé S38"
     ]
   },
   {
     "matiere": "PARCOURS CHIMIE",
     "chapitres": [
-      "L1SPS 03 Pchimie chimie",
-      "L1SPS 02 Pchimie chimie",
-      "L1SPS 01 Pchimie chimie",
+      "L1SPS 03 Pchimie chimie S37",
+      "L1SPS 02 Pchimie chimie S36",
+      "L1SPS 01 Pchimie chimie S36",
       "L1SPS 01 Pchimie maths étude globale fonctions",
       "L1SPS 01 Pchimie maths limites",
       "L1SPS 02 Pchimie maths développements limités",
