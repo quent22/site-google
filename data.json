@@ -2,64 +2,67 @@
   {
     "matiere": "UE1",
     "chapitres": [
-      "Aspects quantitatifs S40",
-      "Aspects quantitatifs S39",
-      "Réactions et équations chimiques S39",
-      "Solutions S38",
-      "Stéréochimie isomérie mésomérie S38",
-      "Molécules organiques S38",
-      "Espèces chimiques S37",
-      "Molécules organiques S37",
-      "Espèces chimiques S36",
-      "Atome, élément et tableau périodique S36"
+      "L1sps 12 Ue1 Aspects Quantitatifs S40",
+      "L1sps 11 Ue1 Aspects Quantitatifs S39",
+      "L1sps 10 Ue1 Aspects Quantitatifs S39",
+      "L1sps 09 Ue1 Réactions Et Équations Chimiques S39",
+      "L1sps 08 Ue1 Solutions S38",
+      "L1sps 07 Ue1 Stéréochimie Isomérie Mésomérie S38",
+      "L1sps 06 Ue1 Molécules Organiques S38",
+      "L1sps 04 Ue1 Espèces Chimiques S37",
+      "L1sps 05 Ue1 Molécules Organiques S37",
+      "L1sps 03 Ue1 Espèces Chimiques S37",
+      "L1sps 02 Ue1 Espèces Chimiques S36",
+      "L1sps 01 Ue1 Atome, Élément Et Tableau Périodique S36"
     ]
   },
   {
     "matiere": "UE2",
     "chapitres": [
-      "Métabolisme glucidique S40",
-      "Enzymes S39",
-      "Métabolisme glucidique S38",
-      "Acides aminés Protéines S37",
-      "Enzymes S37",
-      "Protéines S37",
-      "Lipides S36",
-      "Glucides S36"
+      "L1sps 09 Ue2 Métabolisme Glucidique Partie2 S40",
+      "L1sps 08 Ue2 Enzymes Partie2 S39",
+      "L1sps 07 Ue2 Métabolisme Glucidique Partie1 S38",
+      "L1sps 04 Ue2 Acides Aminés Protéines S37",
+      "L1sps 06 Ue2 Enzymes Partie1 S37",
+      "L1sps 05 Ue2 Protéines S37",
+      "L1sps 03 Ue2 Lipides S36",
+      "L1sps 02 Ue2 Glucides Partie2 S36",
+      "L1sps 01 Ue2 Glucides Partie1 S36"
     ]
   },
   {
     "matiere": "UE3",
     "chapitres": [
-      "Bayésien Régression Livret",
-      "Tests diagnostiques/Concordance S40",
-      "moyennes S40",
-      "proportions S39 S40",
-      "Lois de proba S37",
-      "Principe THN S38 S39",
-      "Estimation S38",
-      "Probabilités S36",
-      "Stats descriptives S36"
+      "Stage Ue3 Bayésien Régression Livret",
+      "L1sps 08 Ue3 Tests Diagnostiques/concordance S40",
+      "L1sps 07 Ue3 Moyennes S40",
+      "L1sps 06 Ue3 Proportions S39 S40",
+      "L1sps 03 Ue3 Lois De Proba S37",
+      "L1sps 05 Ue3 Principe Thn S38 S39",
+      "L1sps 04 Ue3 Estimation S38",
+      "L1sps 02 Ue3 Probabilités S36",
+      "L1sps 01 Ue3 Stats Descriptives S36"
     ]
   },
   {
     "matiere": "SHS",
     "chapitres": [
-      "L1SPS 07 08 UET SHS CM Genre et santé S39",
-      "L1SPS 03 04 UET SHS CM L'invention de la bactériologie S38",
-      "L1SPS 05 06 UET SHS CM Histoire de la santé mentale S39",
-      "L1SPS 01 02 UET SHS Images et santé S38"
+      "L1sps 07 08 Genre Et Santé S39",
+      "L1sps 03 04 L'invention De La Bactériologie S38",
+      "L1sps 05 06 Histoire De La Santé Mentale S39",
+      "L1sps 01 02 Images Et Santé S38"
     ]
   },
   {
     "matiere": "PARCOURS CHIMIE",
     "chapitres": [
-      "L1SPS 03 Pchimie chimie S37",
-      "L1SPS 02 Pchimie chimie S36",
-      "L1SPS 01 Pchimie chimie S36",
-      "L1SPS 01 Pchimie maths étude globale fonctions",
-      "L1SPS 01 Pchimie maths limites",
-      "L1SPS 02 Pchimie maths développements limités",
-      "L1SPS 01 Pchimie maths fonctions"
+      "L1sps 03 Chimie S37",
+      "L1sps 02 Chimie S36",
+      "L1sps 01 Chimie S36",
+      "L1sps 01 Maths Étude Globale Fonctions Partie3",
+      "L1sps 01 Maths Limites Partie2",
+      "L1sps 02 Maths Développements Limités",
+      "L1sps 01 Maths Fonctions Partie1"
     ]
   }
 ]
