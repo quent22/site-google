@@ -1,4 +1,9 @@
 {
     "dates_colle": "02/10/2025 - 05/10/2025",
-    "planning": []
+    "planning": [
+        {
+            "matiere": "UE1 : CONST & TRANSF MATIÈRE [colle 04 : jeudi 12h au dimanche 23h 30 min Livrets 5 à9",
+            "contenu": "Livrets 5 à9"
+        }
+    ]
 }
